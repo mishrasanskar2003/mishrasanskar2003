@@ -2,7 +2,7 @@
 - 👀 interested in learning new skills in programing 
 - 🌱 currently learning c++
 - 💞️ looking to collaborate on c based codes
-- 📫 if u want to colaborate message me on instagram (just.sanssss)
+- 📫 if u want to Collaborate message me on instagram (just.sanssss)
 
 <!---
 mishrasanskar2003/mishrasanskar2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
